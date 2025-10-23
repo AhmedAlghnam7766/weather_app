@@ -1,0 +1,4 @@
+states:
+    - weather loded state
+    - no weather state
+    - weather failur state

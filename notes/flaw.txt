@@ -1,0 +1,5 @@
+make a home screen for no weather data
+when have weather data change it to the weather screen of the city
+make search scree to search areas 
+when search it shows recommendations
+when you choose city the home screen shows the weather screen
